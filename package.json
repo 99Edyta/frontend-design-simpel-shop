@@ -1,0 +1,9 @@
+{
+  "name": "frontend-design-simpel-shop",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix web-shop run dev",
+    "build": "npm --prefix web-shop run build",
+    "start": "npm --prefix web-shop run start"
+  }
+}
