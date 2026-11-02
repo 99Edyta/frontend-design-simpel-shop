@@ -1,9 +1,6 @@
-import { Metadata } from "next";
-import { ReactNode } from "react";
-
 export const metadata = {
-  title: "Simpel Shop",
-  description: "Se vores produkter",
+  title: "Web Shop",
+  description: "My web shop",
 };
 
 export default function RootLayout({ children }) {
